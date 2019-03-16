@@ -2,3 +2,5 @@
 en HTML/CSS/JS
 
 Explication du jeu: appuyez sur "pierre" "feuille" "ciseaux" ou "puit" et voir qui gagne!
+
+Enjoy!
